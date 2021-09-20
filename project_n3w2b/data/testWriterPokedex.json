@@ -1,0 +1,14 @@
+{"pokedex": [
+    {
+        "name": "Caterpie",
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "ndex": 10,
+        "type": "Bug"
+    },
+    {
+        "name": "Charizard",
+        "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+        "ndex": 6,
+        "type": "Fire,Flying"
+    }
+]}

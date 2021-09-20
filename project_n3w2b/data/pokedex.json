@@ -1,0 +1,56 @@
+{"pokedex": [
+    {
+        "name": "Bulbasaur",
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokemon.",
+        "ndex": 1,
+        "type": "Grass,Poison"
+    },
+    {
+        "name": "Charmander",
+        "description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+        "ndex": 4,
+        "type": "Fire"
+    },
+    {
+        "name": "Squirtle",
+        "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "ndex": 7,
+        "type": "Water"
+    },
+    {
+        "name": "Pikachu",
+        "description": "Disgusting yellow rat.",
+        "ndex": 25,
+        "type": "Electric"
+    },
+    {
+        "name": "Caterpie",
+        "description": "Useless bug.",
+        "ndex": 10,
+        "type": "Bug"
+    },
+    {
+        "name": "Charizard",
+        "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+        "ndex": 6,
+        "type": "Fire,FLying"
+    },
+    {
+        "name": "Dragonite",
+        "description": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+        "ndex": 149,
+        "type": "Dragon,Flying"
+    },
+    {
+        "name": "Raichu",
+        "description": "Chonkier disgusting yellow rat.",
+        "ndex": 26,
+        "type": "Electric"
+    },
+    {
+        "name": "Charmeleon",
+        "description": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+        "ndex": 5,
+        "type": "Fire"
+    }
+]}
