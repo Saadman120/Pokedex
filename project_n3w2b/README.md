@@ -12,7 +12,7 @@ specific Pokemon can be found, and such, will make the task of information searc
 players.
 
 Hence, the following application will present players with a database of Pokemon (will not include every Pokemon till 
-now as that will increase the time to build a database of Pokemon by a lot). Each Pokemon will have an image and basic
+now as that will increase the time to build a database of Pokemon by a lot). Each Pokemon will have basic
 information about its species listed in its tab that the player can use to find specific information that they may
 require at the time.
 
